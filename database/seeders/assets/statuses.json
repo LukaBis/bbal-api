@@ -1,0 +1,17 @@
+{
+    "NS" : "Not Started",
+    "Q1" : "Quarter 1 (In Play)",
+    "Q2" : "Quarter 2 (In Play)",
+    "Q3" : "Quarter 3 (In Play)",
+    "Q4" : "Quarter 4 (In Play)",
+    "OT" : "Over Time (In Play)",
+    "BT" : "Break Time (In Play)",
+    "HT" : "Halftime (In Play)",
+    "FT" : "Game Finished (Game Finished)",
+    "AOT" : "After Over Time (Game Finished)",
+    "POST" : "Game Postponed",
+    "CANC" : "Game Cancelled",
+    "SUSP" : "Game Suspended",
+    "AWD" : "Game Awarded",
+    "ABD" : "Game Abandoned"
+}
